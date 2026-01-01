@@ -1,13 +1,13 @@
 [Unofficial] NeoForge Port of LesRaisins Studio's Fallout-themed [TACZ] Fallout Gunpack for TaCZ.
 
-DO NOT REPORT ANY BUGS WITH THIS PORT TO THE ORIGINAL DEVS!
-![Alt text for accessibility](https://q1.boheurl.com/lesraisins/i/2025/01/08/fallout.png)
+**DO NOT REPORT ANY BUGS WITH THIS PORT TO THE ORIGINAL DEVS!** Bugs go to this project's issues tab.
 
-Fallout Gunpack is a Fallout 4 themed TaCZ MOD addon MOD, covering many elaborate Fallout weapons with some other author's favorite colorful weapons, if you like the wasteland style weapons welcome to subscribe this MOD. we will add more exquisite Fallout weapons in the subsequent updates. 
+![Fallout Gunpack preview](https://q1.boheurl.com/lesraisins/i/2025/01/08/fallout.png)
 
+Fallout Gunpack is a Fallout 4 themed TaCZ addon mod featuring elaborate wasteland weapons plus colorful favorites from other creators. Subscribe for more exquisite Fallout weapons in future updates.
 
-Dependency  This is a MOD, Please put the .jar file in the mods folder but not in tacz gun pack path.
+**Dependency:** Place the .jar in your `mods` folder (not tacz gunpack path). Requires TaCZ 1.1.6+ for Minecraft 1.21.1.
 
-Minecraft Version	Addon Version	TaCZ Version
-1.21.1	0.1.0	1.1.6+
-
+| Minecraft | Addon | TaCZ    |
+|-----------|-------|---------|
+| 1.21.1    | 0.1.0 | 1.1.6+ |
