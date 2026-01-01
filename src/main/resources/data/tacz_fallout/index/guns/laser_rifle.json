@@ -1,0 +1,7 @@
+{
+    "name": "fallout.gun.laser_rifle.name",
+    "display": "tacz_fallout:laser_rifle_display",
+    "data": "tacz_fallout:laser_rifle_data",
+    "type": "rifle",
+    "tooltip": "fallout.gun.laser_rifle.desc"
+}

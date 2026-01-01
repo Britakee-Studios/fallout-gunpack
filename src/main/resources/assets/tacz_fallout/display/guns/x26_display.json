@@ -1,0 +1,72 @@
+{
+    "model": "tacz_fallout:gun/x26_geo",
+    "texture": "tacz_fallout:gun/uv/x26",
+    "lod": {
+        "model": "tacz_fallout:gun/lod/x26_lod",
+        "texture": "tacz_fallout:gun/lod/x26_lod"
+    },
+    "hud": "tacz_fallout:gun/hud/x26",
+    "slot": "tacz_fallout:gun/slot/x26",
+    "animation": "tacz_fallout:x26",
+    "use_default_animation": "pistol",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [1, 1, 1],
+            "ground": [1, 1, 1],
+            "fixed": [1.5, 1.5, 1.5]
+        }
+    },
+    "ammo": {
+      "tracer_color": "#0dc2ff",
+      "particle": {
+        "name": "enchanted_hit",
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "speed": 0,
+        "life_time": 40,
+        "count": 5
+      }
+    },
+    "sounds": {
+        "shoot": "tacz_fallout:item/x26_fire",
+        "reload_empty": "tacz_fallout:item/x26_reload",
+        "reload_tactical": "tacz_fallout:item/x26_reload",
+        "inspect": "tacz_fallout:item/x26_inspect",
+        "inspect_empty": "tacz_fallout:item/x26_inspect",
+        "draw": "tacz_fallout:item/x26_draw",
+        "put_away": "tacz_fallout:item/x26_put_away",
+        "shoot_3p": "tacz_fallout:item/x26_fire_3p",
+        "kill": "tacz_fallout:item/x26_kill"
+    },
+    "offhand_show": {
+      "pos": [4, 13, -1],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "hotbar_show": {
+      "0": {
+        "pos": [4, 13, -1],
+        "rotate": [-90, -35, 90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "1": {
+        "pos": [4, 13, -1],
+        "rotate": [-90, -35, 90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "2": {
+        "pos": [4, 13, -1],
+        "rotate": [-90, -35, 90],
+        "scale": [0.5, 0.5, 0.5]
+      },
+      "3": {
+        "pos": [4, 13, -1],
+        "rotate": [-90, -35, 90],
+        "scale": [0.5, 0.5, 0.5]
+      }
+    }
+}

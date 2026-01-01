@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:leathers"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "c:nuggets/iron"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 14
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz_fallout:10mm_pistol"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

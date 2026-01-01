@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 34
+    },
+    {
+      "item": {
+        "tag": "c:nuggets/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "c:leathers"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:slimeballs"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:repeater"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz_fallout:qlz87",
+    "ammo_count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

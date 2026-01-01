@@ -1,0 +1,43 @@
+{
+  "model": "tacz_fallout:gun/qlz87_geo",
+  "texture": "tacz_fallout:gun/uv/qlz87",
+  "hud": "tacz_fallout:gun/hud/qlz87",
+  "slot": "tacz_fallout:gun/slot/qlz87",
+  "animation": "tacz_fallout:qlz87",
+  "use_default_animation": "rifle",
+  "lod": {
+    "model": "tacz_fallout:gun/lod/qlz87",
+    "texture": "tacz_fallout:gun/lod/qlz87"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [1, 1, 1],
+      "ground": [1, 1, 1],
+      "fixed": [1.5, 1.5, 1.5]
+    }
+  },
+  "sounds": {
+    "reload_empty": "tacz_fallout:item/qlz87_reload_empty",
+    "inspect": "tacz_fallout:item/qlz87_inspect",
+    "reload_tactical": "tacz_fallout:item/qlz87_reload_tactical",
+    "inspect_empty": "tacz_fallout:item/qlz87_inspect",
+    "draw": "tacz_fallout:item/qlz87_draw",
+    "put_away": "tacz_fallout:item/qlz87_put_away",
+    "shoot": "tacz_fallout:item/qlz87_fire",
+    "shoot_3p": "tacz_fallout:item/qlz87_fire_3p",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 4],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

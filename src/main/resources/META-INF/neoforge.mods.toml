@@ -1,0 +1,36 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+issueTrackerURL = ""
+
+[[mods]]
+modId = "tacz_fallout"
+version = "0.1.0"
+displayName = "Fallout Gunpack"
+authors = "LesRaisins Studio, Britakee"
+logoFile = "logo.png"
+description = '''
+Fallout-themed gun pack for TaCZ (Timeless and Classics: Zero)
+[Unofficial] NeoForge Port by Britakee
+'''
+
+[[dependencies.tacz_fallout]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tacz_fallout]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tacz_fallout]]
+modId = "tacz"
+type = "required"
+versionRange = "[1.1.4,)"
+ordering = "AFTER"
+side = "BOTH"

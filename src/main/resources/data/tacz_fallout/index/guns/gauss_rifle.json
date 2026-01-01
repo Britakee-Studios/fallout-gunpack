@@ -1,0 +1,7 @@
+{
+    "name": "fallout.gun.gauss_rifle.name",
+    "display": "tacz_fallout:gauss_rifle_display",
+    "data": "tacz_fallout:gauss_rifle_data",
+    "type": "sniper",
+    "tooltip": "fallout.gun.gauss_rifle.desc"
+}
