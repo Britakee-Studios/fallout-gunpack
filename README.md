@@ -17,4 +17,3 @@ Place the .jar in your `mods` folder (not tacz gunpack path). Requires TaCZ 1.1.
 | Minecraft | Addon | TaCZ    |
 |-----------|-------|---------|
 | 1.21.1    | 0.1.0 | 1.1.6+ |
-
