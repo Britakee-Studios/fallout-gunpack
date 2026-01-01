@@ -9,14 +9,6 @@ Fallout Gunpack is a Fallout 4 themed TaCZ addon mod featuring elaborate wastela
 ![Weapons showcase](https://q1.boheurl.com/lesraisins/i/2025/01/08/1k1udu.png)
 ![All guns preview](https://q1.boheurl.com/lesraisins/i/2025/01/08/fallout_cf_allgun.png)
 
-## Credits & Notes
-**Original Author:** LesRaisins Studio (creator of the original Fallout Gunpack)  
-**Port Author:** [Your Name/Username]  
-
-**Publishing Note:** Original TaCZ dev has explicitly approved publishing this NeoForge port: "it's ok to create the project and release it yourself... you can add me as the 'original author' or under any other appropriate role."
-
-![Credits image](https://s1.directupload.eu/images/260101/sq85hf22.png)
-
 ## Dependencies & Installation
 ![Dependency info](https://q1.boheurl.com/lesraisins/i/2025/01/08/fallout_dependency.png)
 
@@ -26,3 +18,13 @@ Fallout Gunpack is a Fallout 4 themed TaCZ addon mod featuring elaborate wastela
 | Minecraft | Addon Version | TaCZ Version |
 |-----------|---------------|--------------|
 | 1.21.1    | 0.1.0         | 1.1.6+       |
+
+## Credits & Notes
+**Original Author:** LesRaisins Studio (creator of the original Fallout Gunpack)  
+**Port Author:** Britakee
+
+**Publishing Note:** Original TaCZ dev has explicitly approved publishing this NeoForge port: "it's ok to create the project and release it yourself... you can add me as the 'original author' or under any other appropriate role."
+
+**Important Note from Original Devs:** The previous approach of extracting JAR contents directly into the tacz folder is not ideal. This port uses a unified packaging process with lowcodefml (similar to the latest Delta Force Melee Pack).
+
+![Credits image](https://s1.directupload.eu/images/260101/sq85hf22.png)

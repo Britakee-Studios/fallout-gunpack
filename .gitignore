@@ -1,0 +1,25 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Gradle
+.gradle/
+build/
+!src/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Runtime
+run/
+out/
+
+# Gradle wrapper (keep these)
+!gradle/wrapper/
+!gradlew
+!gradlew.bat
