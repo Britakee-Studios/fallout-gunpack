@@ -7,7 +7,6 @@
 .gradle/
 build/
 !src/
-.memory-bank/
 
 # OS
 .DS_Store
@@ -19,6 +18,9 @@ Thumbs.db
 # Runtime
 run/
 out/
+
+# Documentation (local only)
+memory-bank/
 
 # Gradle wrapper (keep these)
 !gradle/wrapper/
