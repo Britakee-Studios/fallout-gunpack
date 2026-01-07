@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "c:glass_blocks"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "c:nuggets/iron"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz_fallout:scope_dzj08"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

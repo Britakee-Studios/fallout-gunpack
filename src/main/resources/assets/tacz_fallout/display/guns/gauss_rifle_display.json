@@ -34,10 +34,10 @@
         "reload_empty": "tacz_fallout:item/gauss_rifle_reload",
         "reload_tactical": "tacz_fallout:item/gauss_rifle_reload",
         "inspect": "tacz_fallout:item/gauss_rifle_inspect",
-        "inspect_empty": "tacz_fallout:item/gauss_rifle_inspect_empty",
+        "inspect_empty": "tacz_fallout:item/gauss_rifle_inspect",
         "draw": "tacz_fallout:item/gauss_rifle_draw",
         "bolt": "tacz_fallout:item/gauss_rifle_bolt",
-        "put_away": "tacz_fallout:item/gauss_rifleput_away",
+        "put_away": "tacz_fallout:item/gauss_rifle_put_away",
         "shoot_3p": "tacz_fallout:item/gauss_rifle_fire_3p",
         "silence_3p": "tacz_fallout:item/gauss_rifle_fire_s_3p"
     },

@@ -17,7 +17,6 @@
     }
   },
   "sounds": {
-    "reload_empty": "tacz_fallout:item/dzj08_reload",
     "inspect": "tacz_fallout:item/dzj08_inspect",
     "inspect_empty": "tacz_fallout:item/dzj08_inspect",
     "draw": "tacz_fallout:item/dzj08_draw",

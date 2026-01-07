@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:dusts/glowstone"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz_fallout:2mm_ec",
+    "count": 4
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

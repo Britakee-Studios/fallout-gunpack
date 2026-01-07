@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:gunpowder"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:nuggets/iron"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz_fallout:10mm",
+    "count": 16
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

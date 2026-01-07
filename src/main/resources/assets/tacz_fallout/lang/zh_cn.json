@@ -24,5 +24,9 @@
   "fallout.ammo.2mm_ec.name": "2mm电磁弹",
   "fallout.ammo.fusion_cell.name": "核融合电池",
   "fallout.ammo.10mm.name": "10mm 手枪弹",
+
+  "fallout.attachment.scope_dzj08.name": "DZJ-08瞄准镜",
+  "fallout.attachment.scope_dzj08.tooltip": "DZJ-08火箭筒内置瞄准镜",
+
   "actionbar.fallout.no_reload": "§c一次性武器，无法装填！"
 }

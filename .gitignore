@@ -7,6 +7,7 @@
 .gradle/
 build/
 !src/
+.memory-bank/
 
 # OS
 .DS_Store

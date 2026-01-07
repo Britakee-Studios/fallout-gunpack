@@ -24,5 +24,9 @@
   "fallout.ammo.2mm_ec.name": "2mm EM shells",
   "fallout.ammo.fusion_cell.name": "Fusion Cell",
   "fallout.ammo.10mm.name": "10mm Bullet",
+
+  "fallout.attachment.scope_dzj08.name": "DZJ-08 Scope",
+  "fallout.attachment.scope_dzj08.tooltip": "Built-in scope for DZJ-08 Rocket Launcher",
+
   "actionbar.fallout.no_reload": "§cDisposable weapon, cannot reload!"
 }
